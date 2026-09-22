@@ -74,4 +74,4 @@ public class AppointmentService {
 
         appointmentRepository.delete(appointment);
     }
-}
+}	 
